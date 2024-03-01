@@ -133,6 +133,6 @@ STATIC_URL = "static/"
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 CORS_ALLOWED_ORIGINS = [
-    # "https://yashaswinisampath.github.io/numbers_app/",
+    "https://yashaswinisampath.github.io/numbers_app/",
     "http://localhost:3000",
 ]

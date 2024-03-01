@@ -29,6 +29,8 @@ ALLOWED_HOSTS = [
     "localhost",
     "0.0.0.0",
     "ciphers-service-yashaswinisampath.onrender.com",
+    "https://cipherservice.onrender.com",
+    "cipherservice.onrender.com"
 ]
 
 
